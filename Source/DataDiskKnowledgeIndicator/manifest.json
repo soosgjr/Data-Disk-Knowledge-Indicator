@@ -1,0 +1,10 @@
+{
+	"id": "DataDiskKnowledgeIndicator",
+	"loadorder": 1,
+	"title": "{{Y|Data Disk}} {{C|Knowledge}} {{W|Indicator}}",
+	"description": "Adds a visual indicator to the names of data disks that contain an already known recipe.",
+	"tags": "Stable,Tinkering,Script",
+	"version": "0.1.0",
+	"author": "Gabor Soos",
+	"previewImage": "preview.png"
+}
